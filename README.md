@@ -10,7 +10,7 @@ Mufulira,Zambia
 
 
 ## Skills
-Interpersonal Communication 
+Interpersonal Communication.
 Time Management.
 Public Speaking 
 Problem Solving and Decision Making
