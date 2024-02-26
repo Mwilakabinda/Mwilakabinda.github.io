@@ -1,6 +1,6 @@
 # Developer
 
-### Education
+## Education
 ### Bachelor of Information and Communication Technology; Software Engineering,
 Information and Communications University Zambia, July 2022 - Present
 
@@ -9,9 +9,9 @@ Mufulira Secondary School, January 2016 - December 2019
 Mufulira,Zambia
 
 
-### Skills
+## Skills
 Interpersonal Communication 
-Time Management 
+Time Management =
 Public Speaking 
 Problem Solving and Decision Making
 Team work collaboration and Team building
