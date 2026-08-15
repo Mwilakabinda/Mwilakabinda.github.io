@@ -106,6 +106,9 @@ I am open to software engineering opportunities, internships, collaborations, an
 
 **LinkedIn:** [linkedin.com/in/pius-kabinda-a9727a243](https://www.linkedin.com/in/pius-kabinda-a9727a243)
 
+**Phone Number:** +260 776 109 640  /  +260 762 120 318
+
+
 ---
 
 ### Let's build solutions that solve real problems.
