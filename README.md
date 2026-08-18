@@ -1,76 +1,95 @@
 # Pius Mwila Kabinda
 
-### Software Engineer | Full-Stack Developer | Mobile Developer
+### Software Engineer | Backend & Full-Stack Developer | AI & Agentic Engineering
 
-I am a software engineer focused on building practical, secure, and user-friendly software solutions. I enjoy transforming real-world problems into functional applications across web, backend, and mobile platforms.
+I build practical software systems across web, backend, mobile, and API-driven applications, with a growing focus on artificial intelligence, LLM applications, and agentic systems.
+
 
 ## About Me
 
-I am a software engineering graduate from **Information and Communications University (ICU), Zambia**, with a strong interest in full-stack development, backend engineering, mobile applications, databases, cybersecurity, and emerging technologies.
+I am a Software Engineer from Zambia with a Bachelor of Information and Communication Technology in Software Engineering from Information and Communications University.
 
-I enjoy learning new technologies and applying them to projects that solve practical problems.
+I have hands-on experience building web, backend, and mobile applications using technologies including Python, TypeScript, JavaScript, React, FastAPI, Flask, Node.js, PostgreSQL, MongoDB, SQLite, and Docker.
+
+My work focuses on turning real-world problems into reliable software through thoughtful system design, API development, database engineering, and secure application development.
+
+I am currently expanding my expertise into AI engineering, with a particular interest in LLM applications, agentic systems, tool integration, context engineering, and building reliable AI-powered software.
+
 
 ## Technical Skills
 
 ### Programming Languages
 
-**Python** · **Java** · **Kotlin** · **JavaScript** · **TypeScript** · **SQL**
+Python · TypeScript · JavaScript · Java · Kotlin · SQL
+
+### Backend & API Engineering
+
+FastAPI · Flask · Node.js · Express.js · REST APIs · API Integration
 
 ### Frontend Development
 
-**React** · **HTML** · **CSS** · **Bootstrap** · **Leaflet.js**
-
-### Backend Development
-
-**FastAPI** · **Flask** · **Node.js** · **Express.js**
+React · HTML · CSS · Bootstrap · Leaflet.js
 
 ### Databases
 
-**PostgreSQL** · **MongoDB** · **SQLite**
+PostgreSQL · MongoDB · SQLite
 
-### Tools & Platforms
+### Development & DevOps
 
-**Git** · **GitHub** · **Docker** · **Android Studio** · **VS Code**
+Git · GitHub · Docker · VS Code · Android Studio
+
+### AI & Emerging Technologies
+
+LLM Applications · Prompt Engineering · Context Engineering · AI-Assisted Development · Agentic Systems
+
+### Security & Engineering
+
+Input Validation · Authentication Concepts · Secure API Development · Cybersecurity Fundamentals · Software Architecture
+
 
 ## Featured Projects
 
 ### 🎟️ Event Ticketing & Seat Reservation System
 
-A full-stack event ticketing platform designed to manage events, ticket reservations, and seat allocation while preventing double bookings through database-level transaction controls.
+A full-stack event ticketing and seat reservation platform designed to manage events, ticket availability, and seat allocation while preventing double bookings through database transactions and concurrency controls.
 
 **Technologies:** React · TypeScript · FastAPI · PostgreSQL · Docker
 
-[View Project](https://github.com/Mwilakabinda)
+**Engineering Focus:** REST APIs · Database Transactions · Concurrency Control · System Design · Full-Stack Development
+
 
 ---
 
 ### 🚛 SmartRoute Optimizer
 
-A smart waste collection route planning system that uses geographic data, bin fill levels, and routing algorithms to help optimize waste collection operations.
+A route optimization system for waste collection that combines geographic data, bin fill levels, routing services, and optimization logic to help determine efficient collection routes.
 
 **Technologies:** Python · Flask · SQLite · Leaflet.js · Routing APIs
 
-[View Project](https://github.com/Mwilakabinda)
+**Engineering Focus:** Python Backend · REST APIs · Data Processing · Route Optimization · Geographic Systems
+
 
 ---
 
 ### 🌐 ZedCore Innovations
 
-A modern technology company website developed for ZedCore Innovations, a Lusaka-based technology company focused on software engineering, cybersecurity, and artificial intelligence solutions.
+A modern technology platform developed for ZedCore Innovations, demonstrating full-stack development, responsive user interfaces, and modern software engineering practices for a technology company focused on software engineering, cybersecurity, and artificial intelligence.
 
-**Technologies:** Next.js · React · TypeScript
+**Technologies:** Next.js · React · TypeScript · JavaScript
 
-[View Project](https://github.com/Mwilakabinda/zedcore-innovations)
+**Engineering Focus:** Full-Stack Development · Modern Web Architecture · Responsive Design · Technology Solutions
+
 
 ---
 
 ### 📱 ICU Timetable Application
 
-An Android application designed to help students access and manage their university timetable information.
+An Android application designed to help university students access, organize, and manage timetable information through a simple mobile interface.
 
 **Technologies:** Kotlin · Android Studio · SQLite
 
-[View Project](https://github.com/Mwilakabinda/MOBILE-PROGRAMING-PROJECT)
+**Engineering Focus:** Android Development · SQLite · Mobile UI · Local Data Management
+
 
 ## Education
 
@@ -82,31 +101,33 @@ An Android application designed to help students access and manage their univers
 ### Grade 12 O'Level
 
 **Mufulira Secondary School, Zambia**
-2016 – 2019
+2017 – 2019
 
-## Currently Interested In
+### Current Focus
 
-* Full-Stack Web Development
-* Backend Engineering
-* Mobile Application Development
-* Software Architecture
-* Database Systems
-* API Development
-* Cybersecurity
-* Artificial Intelligence
-* Cloud & DevOps
+I am currently deepening my skills in:
+
+* 🤖 AI Engineering and LLM Applications
+* 🧠 Agentic Systems and AI Tool Use
+* 🔌 API Engineering and Integrations
+* 🏗️ Software Architecture and System Design
+* 🔐 Secure Software and AI Application Development
+* 🐍 Python Backend Engineering
+* ⚛️ TypeScript and Full-Stack Development
+* ☁️ Cloud and DevOps
+
 
 ## Contact
 
-I am open to software engineering opportunities, internships, collaborations, and technology projects.
+I am open to software engineering opportunities, AI and technology projects, collaborations, and opportunities to build impactful software solutions.
 
-**Email:** [kabindapius@gmail.com](mailto:kabindapius@gmail.com)
+📧 **Email:** [kabindapius@gmail.com](mailto:kabindapius@gmail.com)
 
-**GitHub:** [github.com/Mwilakabinda](https://github.com/Mwilakabinda)
+💻 **GitHub:** github.com/Mwilakabinda
 
-**LinkedIn:** [linkedin.com/in/pius-kabinda-a9727a243](https://www.linkedin.com/in/pius-kabinda-a9727a243)
+🔗 **LinkedIn:** linkedin.com/in/pius-kabinda-a9727a243
 
-**Phone Number:** +260 776 109 640  /  +260 762 120 318
+📞 **Phone:** +260 776 109 640 / +260 762 120 318
 
 
 ---
